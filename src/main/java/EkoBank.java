@@ -91,6 +91,7 @@ public class EkoBank {
                     System.out.print("your transaction: ");
 
 
+
                     Scanner i = new Scanner(System.in);
                     String ss = i.nextLine();
                     switch(ss) {
