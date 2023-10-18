@@ -90,6 +90,7 @@ public class EkoBank {
                     System.out.println("Press A to exit");
                     System.out.print("your transaction: ");
 
+
                     Scanner i = new Scanner(System.in);
                     String ss = i.nextLine();
                     switch(ss) {
