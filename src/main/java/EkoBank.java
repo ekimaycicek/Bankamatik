@@ -95,7 +95,6 @@ public class EkoBank {
 
 
 
-
                     Scanner i = new Scanner(System.in);
                     String ss = i.nextLine();
                     switch(ss) {
